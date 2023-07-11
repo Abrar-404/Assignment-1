@@ -1,0 +1,294 @@
+*{
+  margin: 0px;
+}
+.upper{
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  padding-left: 30px;
+  padding-right: 30px;
+  background-color: #E554731A;
+}
+.headline{
+color: #272727;
+font-size: 40px;
+font-weight: 800;
+text-align: left;
+padding-bottom: 20px;
+}
+.para{
+  color: rgba(39, 39, 39, 0.60);
+font-size: 18px;
+font-weight: 400;
+padding-bottom: 20px;
+}
+.btn{
+  background-color: #E55473;
+  border-radius: 8px;
+  color: white;
+  font-size: 20px;
+  font-weight: 400;
+  padding: 10px;
+  padding-left: 20px; 
+  padding-right: 20px; 
+  padding-top: 20px; 
+  padding-bottom: 20px; 
+  border: 0px;
+}
+.upper-flower{
+  width: 350px;
+  height: 450px;
+  padding-top: 20px;
+}
+.main-text{
+  padding-top: 100px;
+  align-items: center;
+  text-align: center;
+  padding-bottom: 10px;
+  margin-top: 30px;
+  justify-content: center;
+}
+.title{
+  color: #272727;
+font-size: 40px;
+font-weight: 800;
+padding-bottom: 20px;
+}
+.para2{
+  color: rgba(39, 39, 39, 0.60);
+font-size: 18px;
+font-weight: 400;
+}
+.flower-images{
+  align-items: center;
+  gap: 10px;
+  display: flex;
+  justify-content: space-around;
+  padding-top: 50px;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+.pink{
+  width: 300px;
+  height: 400px;
+  padding-top: 50px;
+  background-color: #A7216226;
+  border-top-right-radius: 300px;
+  border-top-left-radius: 300px;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 60vh;
+  background-size: cover;
+  align-items: center;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+.red{
+  width: 350px;
+  height: 400px;
+  padding-top: 50px;
+  background-color: #0597A026;
+  border-top-right-radius: 300px;
+  border-top-left-radius: 300px;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 60vh;
+  background-size: cover;
+  align-items: center;
+}
+.yellow{
+  width: 350px;
+  height: 400px;
+  padding-top: 50px;
+  padding-left: 20px;
+  border-top-right-radius: 300px;
+  border-top-left-radius: 300px;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 60vh;
+  background-size: cover;
+  align-items: center;
+  background-color: #477D1126;
+}
+.flower-bottom-text{
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  padding-top: 20px;
+  margin-left: 40px;
+  margin-right: 40px;
+}
+.bottom-text{
+  font-size: 24px;
+font-weight: bold;
+text-decoration: underline;
+}
+.services{
+  padding-top: 100px;
+  align-items: center;
+  display: flex;
+  justify-content: space-around;
+  background-color: #2727270D;
+  margin-left: 100px;
+  margin-right: 100px;
+  margin-top: 100px;
+  padding-bottom: 60px;
+}
+.service1{
+  align-items: center;
+  text-align: center;
+}
+.service2{
+  align-items: center;
+  text-align: center;
+}
+.service3{
+  align-items: center;
+  text-align: center;
+}
+.delivery{
+  padding-top: 10px;
+}
+.social-media{
+  padding-top: 50px;
+  align-items: center;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  gap: 90px;
+  background-image: url(../istockphoto-1298136769-640x640.jpg);
+  width: 1140px;
+  height: 100px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  margin-top: 30px;
+  margin-left: 90px;
+  margin-right: 90px;
+  border-radius: 8px;
+  padding-bottom: 30px;
+}
+.icon-all{
+  width: 50px;
+  height: 50px;
+}
+.deal-section{
+  display: flex;
+  padding-top: 100px;
+  justify-content: space-around;
+  align-items: center;
+  background-color: #E554730D;
+  margin-top: 100px;
+  padding-left: 40px;
+  padding-right: 40px;
+}
+.para3{
+  color: rgba(39, 39, 39, 0.60);
+ font-size: 18px;
+ font-weight: 400;
+ padding-top: 10px;
+ padding-bottom: 20px;
+ text-align: center;
+}
+.deal-section{
+  align-items: center;
+  text-align: center;
+}
+.hot-deal{
+ color: #272727;
+ font-size: 40px;
+ font-weight: bold;
+}
+.off{
+  color: #E55473;
+}
+.btn{
+  text-align: center;
+  padding-top: 20px;
+}
+.pictures{
+  width: 200px;
+  height: 200px;
+}
+.insta-pics{
+  gap: 30px;
+  align-items: center;
+  display: flex;
+  padding-top: 20px;
+ justify-content: center;
+}
+.email-box{
+  background-color: white;
+  border: 2px solid pink;
+  width: 700px;
+  height: 48px;
+  border-radius: 8px;
+}
+.email-box{
+  background-color: white;
+  border-radius: 8px;
+}
+.button-sec{
+  display: flex;
+  align-items: center;
+  text-align: center;
+  padding-bottom: 20px;
+  gap: 20px;
+  justify-content: center;
+  padding-top: 10px;
+  margin-top: 20px;
+  margin-left: 100px;
+  margin-right: 100px;
+  border-radius: 8px;
+}
+.insta-ad{
+  align-items: center;
+  text-align: center;
+  background-image: url(../Rectangle\ 9.png);
+  width: 1140px;
+  height: 350px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-top: 50px;
+  margin-left: 100px;
+  margin-right: 100px;
+  border-radius: 8px;
+}
+.ad-text{
+  padding-top: 10px;
+  align-items: center;
+  text-align: center;
+  margin-top: 30px;
+  justify-content: center;
+}
+.footer{
+background-color: #111010;
+height: 60vh;
+padding-top: 200px;
+text-align: center;
+align-items: center;
+margin-top: 100px;
+}
+.color-flower{
+  color: #E55473;
+}
+.flower-shop{
+  color: white;
+}
+.para4{
+ color: white;
+ font-size: 18px;
+ font-weight: 400;
+ padding-top: 20px;
+ padding-bottom: 20px;
+ text-align: center;
+}
+.para5{
+  color: rgb(208, 207, 207);
+ font-size: 18px;
+ font-weight: 400;
+ padding-top: 20px;
+ padding-bottom: 20px;
+ text-align: center;
+}
